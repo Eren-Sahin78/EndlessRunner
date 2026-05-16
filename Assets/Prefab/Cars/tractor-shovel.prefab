@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2785227923375815328
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.13379
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.13379
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.13379
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.36156
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.008
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.46169
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7948660828100032839, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -4819223349682164798, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -4352870098106158922, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -3664811705211809293, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Name
+      value: tractor-shovel
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_TagString
+      value: Car
+      objectReference: {fileID: 0}
+    - target: {fileID: 2397621468118695034, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7752030738778784939, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5818155341458549293}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -2030233953037208318}
+  m_SourcePrefab: {fileID: 100100000, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+--- !u!1 &3055261183916197873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b9bcaa55308335a479e7a46cdbebcc2d, type: 3}
+  m_PrefabInstance: {fileID: 2785227923375815328}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5818155341458549293
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3055261183916197873}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.456013, y: 1.251963, z: 3.194749}
+  m_Center: {x: 0.0048385, y: 0.6610636, z: -0.0590741}
+--- !u!114 &-2030233953037208318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3055261183916197873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c998636f8b76ae14fb92996949656599, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Carmover
+  carSpeed: 0.05
